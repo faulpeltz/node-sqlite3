@@ -18,3 +18,4 @@ setup.sh
 cloudformation/ci.template.js
 appveyor.yml
 .vscode
+build-tmp-napi*
